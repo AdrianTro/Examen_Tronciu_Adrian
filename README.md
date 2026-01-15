@@ -1,4 +1,3 @@
-BILETUL NR.4
-Pe scurt fac examen si trebuia pentru un pas din examen 
-NUME : 
-Tronciu Adrian :
+Bilet: <NUMAR_4>
+
+Descriere proiect: Pagina de contact cu html si css
